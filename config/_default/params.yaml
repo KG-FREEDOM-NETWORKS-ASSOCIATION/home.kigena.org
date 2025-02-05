@@ -1,8 +1,8 @@
 ######################## custom scripts & styles ####################
 
 # Add custom assets relative to /static or via https
-logo_on_white: "/static/img/kigena-col-180x500.svg"
-logo_on_black: "/static/img/kigena-bw-180x500.svg"
+logo_on_white: "/img/kigena-col-180x500.svg"
+logo_on_black: "/img/kigena-bw-180x500.svg"
 custom_js: []
 custom_css: []
 
