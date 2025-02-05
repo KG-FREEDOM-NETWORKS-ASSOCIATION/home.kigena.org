@@ -1,6 +1,6 @@
 ---
 title: KILAV GROUP FREEDOM NETWORKS ASSOCIATION
-description: This is the demo site for Dot Org Theme. The title description and images front matter is required for meta og content.
+description: Homepage for KIGENA
 showHeader: false
 ---
 
@@ -9,30 +9,30 @@ showHeader: false
 # KILAV GROUP FREEDOM NETWORKS ASSOCIATION
 
 {{< intro >}}
-The [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) has been created for the [Hugo CMS](https://gohugo.io), and has been developed and released by the [CNCF](https://www.cncf.io), part of the [Linux Foundation](https://www.linuxfoundation.org).
+A non-profit organization that is "strongly committed to spreading the ideas of anarchism around the world"
 {{< /intro >}}
 
 {{< /column >}}
 {{< column >}}
 {{< spacer >}}
-{{< img src="/img/placeholder.svg" loading="eager" >}}
+{{< img src="/img/kigena-col-180x500.svg" loading="eager" >}}
 {{< /column >}}
 {{< /columns >}}
 
 {{< columns count=3 >}}
 {{< column >}}
 {{< img src="/img/placeholder.svg" >}}
-### Free & open source
+### Commited to Anarchism
 The Dot-Org theme is a free and open source theme for Hugo CMS. Use it however you want 🏠 🧱
 {{< /column >}}
 {{< column >}}
 {{< img src="/img/placeholder.svg" >}}
-### Fast & full-featured
+### Konsens-Prinzip
 HTML/CSS/JS written from scratch. No frameworks, no libraries, perfect site speed scores 🚀 🧨
 {{< /column >}}
 {{< column >}}
 {{< img src="/img/placeholder.svg" >}}
-### Accessible & multilingual
+### Technisch engagiert
 Supports multiple languages out of the box. Aims to comply with WCAG 2.1 standards 🌐 👁️‍🗨️
 {{< /column >}}
 {{< /columns >}}
