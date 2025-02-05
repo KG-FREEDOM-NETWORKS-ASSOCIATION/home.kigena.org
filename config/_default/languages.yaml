@@ -26,11 +26,11 @@ en:
       name: "About"
       url: "/about/"
       weight: 1
-    - identifier: "child-1"
-      name: "Example Child Page"
-      url: "/example-page/"
+    - identifier: "about-1"
+      name: "About KIGENA"
+      url: "/about/"
       weight: 1
-      post: "Nulla consequat massa quis enim. Donec pede justo."
+      post: "Who or what is KIGENA?"
       parent: "about"
     - identifier: "child-2"
       name: "Example Child Page"
