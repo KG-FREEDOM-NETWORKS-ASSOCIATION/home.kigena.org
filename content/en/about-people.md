@@ -1,10 +1,10 @@
 ---
-title: About KIGENA
+title: People
 description:
 ---
 
 {{< intro >}}
-The non-profit organization "KILAV GROUP FREEDOM NETWORKS ASSOCIATION" or short "KIGENA", which consists of anarchists committed to spreading the ideas of anarchism around the world, was founded in 2025.
+We are anarchists
 {{< /intro >}}
 
 
