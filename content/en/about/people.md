@@ -4,7 +4,7 @@ description:
 ---
 
 {{< intro >}}
-> We are anarchists
+**We are anarchists**
 {{< /intro >}}
 
 
