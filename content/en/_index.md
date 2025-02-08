@@ -15,7 +15,7 @@ A non-profit organization that is "strongly committed to spreading the ideas of 
 {{< /column >}}
 {{< column >}}
 {{< spacer >}}
-{{< img src="/img/kigena-col-180x500.svg" loading="eager" >}}
+{{< img src="/img/kigena-mountonly-500x500.svg" loading="eager" >}}
 {{< /column >}}
 {{< /columns >}}
 
