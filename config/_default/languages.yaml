@@ -7,10 +7,10 @@ en:
   params:
     description: "Homepage KIGENA Website"
     ### accessibility ###
-    accessibility:
-      skip_text: "Skip to content"
-      help_text: "Accessibility Statement"
-      help_url: "/help/"
+    #accessibility:
+    #  skip_text: "Skip to content"
+    #  help_text: "Accessibility Statement"
+    #  help_url: "/help/"
     ### calls to action ###
     main_cta:
       text: "Support us"
