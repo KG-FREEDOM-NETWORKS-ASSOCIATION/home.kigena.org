@@ -27,25 +27,25 @@ en:
       weight: 1
     - identifier: "about-1"
       name: "About KIGENA"
-      url: "/about/"
+      url: "/about/kigena/"
       weight: 1
       post: "What is KIGENA?"
       parent: "about"
     - identifier: "about-2"
       name: "People"
-      url: "/about-people/"
+      url: "/about/people/"
       weight: 2
       post: "Who is KIGENA?"
       parent: "about"
     - identifier: "about-3"
       name: "Inspector General"
-      url: "/about-inspgen/"
+      url: "/about/inspgen/"
       weight: 3
       post: "The Inspector General at KIGENA"
       parent: "about"
     - identifier: "demo-page"
       name: "Our projects"
-      url: "/demo-page/"
+      url: "/projects/"
       weight: 2
     - identifier: "community"
       name: "Community"

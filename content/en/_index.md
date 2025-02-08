@@ -48,7 +48,7 @@ Supports multiple languages out of the box. Aims to comply with WCAG 2.1 standar
 #### About KIGENA
 Dot Org is loaded with shortcodes to make it easy for you to construct pages and content however you want.
 {{< spacer 5 >}}
-{{< button link="/about" text="About KIGENA" >}}
+{{< button link="/about/kigena" text="About KIGENA" >}}
 {{< /card >}}
 {{< card >}}
 #### Our projects
