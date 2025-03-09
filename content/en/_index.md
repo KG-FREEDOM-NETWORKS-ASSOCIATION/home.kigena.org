@@ -9,7 +9,7 @@ showHeader: false
 # KILAV GROUP FREEDOM NETWORKS ASSOCIATION
 
 {{< intro >}}
-A non-profit organization that is "strongly committed to spreading the ideas of anarchism around the world"
+Committed to spreading the ideas of anarchism around the world
 {{< /intro >}}
 
 {{< /column >}}
@@ -22,18 +22,18 @@ A non-profit organization that is "strongly committed to spreading the ideas of 
 {{< columns count=3 >}}
 {{< column >}}
 {{< img src="/img/placeholder.svg" >}}
-### Commited to Anarchism
-Bestehend aus überzeugten Anarchisten
+### We love anarchists, we are anarchists
+All members of KIGENA are committed anarchists who believe in the freedom of every individual, are convinced of free association and dream of a peaceful and humane world
 {{< /column >}}
 {{< column >}}
 {{< img src="/img/placeholder.svg" >}}
-### Konsens-Prinzip
-Nur mit der expliziten Zustimmung jedes einzelnen Mitglieds entsteht ein "Beschluss der Organization"
+### Only together with each and every one
+All decisions as "KIGENA" require the unanimous consent of all members
 {{< /column >}}
 {{< column >}}
 {{< img src="/img/placeholder.svg" >}}
-### Technisch engagiert
-Wir lieben das Internet und den Gedanken alle Menschen miteinander zu verbinden
+### Information and communication wants to be free
+There is no alternative to the free distribution and free exchange of any information
 {{< /column >}}
 {{< /columns >}}
 {{< spacer 20 >}}
