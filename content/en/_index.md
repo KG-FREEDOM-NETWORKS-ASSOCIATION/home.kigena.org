@@ -33,13 +33,13 @@ All decisions as "KIGENA" require the unanimous consent of all members
 {{< column >}}
 {{< img src="/img/placeholder.svg" >}}
 ### Information and communication wants to be free
-There is no alternative to the free distribution and free exchange of any information
+Everything wants to be free, including information and communication. That's what we work on
 {{< /column >}}
 {{< /columns >}}
 {{< spacer 20 >}}
 ## A word from our founder
 
-{{< youtube_enhanced id="b3ta7fOo6Mo" >}}
+{{< youtube_enhanced id="ppP9-X5DiC8" >}}
 
 {{< spacer 20 >}}
 
